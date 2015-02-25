@@ -19,3 +19,6 @@ body {
   padding: 10px;
   border: solid 2px #DDD;
 }
+#reset {
+  float: right;
+}
